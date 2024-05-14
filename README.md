@@ -1,5 +1,7 @@
 # NVChad custom directory
 
+Customizations of NVChad v2.5
+
 ## Installation
 
 Install [NvChad](https://nvchad.com)
