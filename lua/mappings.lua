@@ -66,6 +66,8 @@ map("n", "<leader>m", "<cmd> MaximizerToggle!<CR>", {desc = "Custom maximizer: t
 --============= telescope plugin
 
 map("n", "<leader>f", "<cmd> Telescope git_files <CR>", {desc = "Telescope find git project files"})
+map("n", "<leader>gg", "<cmd>Telescope live_grep<CR>",  {desc = "telescope live grep" })
+map("n", "<leader>gw", "<cmd>Telescope grep_string<CR>",{desc = "telescope grep word under cursor" })
 
 --============= neoterm plugin
 
